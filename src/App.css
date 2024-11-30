@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #212123;
+}
+.container {
+    width: 1274px;
+    margin: 9 auto;
+}
+.Navlink{
+    text-decoration: none;
+}

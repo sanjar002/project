@@ -1,0 +1,56 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1240px;
+    padding: 32px 0px 34px 0px;
+}
+.user-header{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 15px;
+     
+}
+.user-header p{
+    color: #B8B8B8;
+    font-size: 14px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+.user-icon{
+    width: 45px;
+    height: 45px;
+    background-color: black;
+    border-radius: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.basket-header{
+    display: flex;
+    gap: 10px;
+}
+.search-header{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     background: black;
+     padding: 10px 15px;
+     width: 280px;
+     border-radius: 12px;
+}
+.search-header input{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+}
+.basket-header span{
+    position: relative;
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -6px;
+    font-size: 16px;
+    color: white;
+}

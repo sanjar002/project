@@ -1,0 +1,76 @@
+.Categoty-Hero{
+    width: 304px;
+    height: 423px;
+    border-radius: 6px;
+    background: black;
+    padding: 25px 24px 24px 24px;
+}
+.Categoty-Hero li{
+    list-style: none;
+}
+.Help-Hero{
+    display: flex;
+    align-items: flex-end;
+   
+    padding: 110px 0px 0px 0px;
+    justify-content: space-between;
+    
+}
+.Help-Hero p{
+    color: #576067;
+    font-size: 14px;
+    font-weight: 500;
+}
+.Help-Hero h5{
+        color: #576067;
+        font-size: 14px;
+        font-weight: 500;
+}
+.Categoty-Hero h2{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 0px 0px 32px;
+}
+#Computers{
+    color: #8B57C6;
+    font-size: 14px;
+    font-weight: 500;
+}
+.Category li{
+    font-size: 14px;
+    color: #576067;
+    font-weight: 500;
+    padding: 7px 0px;
+}
+.Hero{
+    display: flex;
+    gap: 20px;
+}
+.Cards{
+    margin-top: 20px;
+    border-radius: 6px;
+    background: black;
+}
+.Cards h2{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 24px 0px 25px;
+}
+.Cards button{
+    width: 119px;
+    height: 38px;
+    background-color: #6C3EB8;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 6px;
+    border: none;
+    
+}
+.Cards p{
+    text-align: center;
+    padding: 24px;
+}

@@ -1,0 +1,39 @@
+.overlay {
+    background: rgba(33, 33, 33, 0.7);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    z-index: 55;
+    display: flex;
+    justify-content: end;
+    /* margin: 0 auto; */
+    
+    .auth{
+      width: 350px;
+      background-color: #191919;
+      
+      display: flex;
+      justify-content: center;
+      /* padding: 0px 50px; */
+      /* margin-left: 30px; */
+      /* padding-left: 80px; */
+      padding-top: 30px;
+      
+      /* margin-top: 30px; */
+      /* border-radius: 12px; */
+  }
+  }
+  .auth button{
+    width: 272px;
+  }
+#input{
+    background: #212123;
+    border: 1px solid #6C3EB8;
+    border-radius: 8px;
+    padding: 12px 24px;
+    color: #616E74;
+}
+

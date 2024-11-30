@@ -1,0 +1,22 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 30px 15px 10px ;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+.footer p span{
+    color: #6C3EB8;
+    font-size: 12px;
+    font-weight: 600;
+}
+.footer p{
+    color: #576067;
+    font-size: 12px;
+    font-weight: 500;
+}
